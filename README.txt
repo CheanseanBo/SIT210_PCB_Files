@@ -1,4 +1,6 @@
 README
 
-LINK TO EASYEDA: https://u.easyeda.com/join?type=project&key=6f663bedb20341d793bd3ae10b1d2914&inviter=70c3a18ea58a44f69f07ff4cd629be33
+Project Homepage Link: https://oshwlab.com/cheansean/project_pcb
+Link to EasyEDA: https://easyeda.com/editor#cmd=new_schematic,cmd_for_project=057f673a182f487ab2478ad22f050a87
+
 
